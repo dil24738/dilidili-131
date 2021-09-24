@@ -1,0 +1,13 @@
+#profile-pic {
+	width:250px;
+}
+
+
+div > .img-fluid {
+	margin-top: 20px;
+	width: 300px;
+	height: auto;
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
